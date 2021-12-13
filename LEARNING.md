@@ -1,0 +1,3 @@
+# 7. JS Syntax Portfolio Project
+
+*   Nothing new here really...
